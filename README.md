@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-ip-address-tracker-7qDlOkgv91)
+- Live Site URL: [here](https://ip-address-tracker-alpha-blush.vercel.app/)
 
 ## My process
 
